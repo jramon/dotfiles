@@ -1,5 +1,4 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Blackboard.tmTheme",
 	"default_line_ending": "unix",
 	"show_line_endings": true,
 	"default_encoding": "UTF-8",
@@ -22,7 +21,6 @@
 		".git",
 		"node_modules"
 	],
-	"font_size": 14,
 	"highlight_modified_tabs": true,
 	"hot_exit": false,
 	"line_padding_bottom": 6,
